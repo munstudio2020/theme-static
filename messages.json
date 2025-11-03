@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "path": "messages",
+  "data": [
+    {
+      "path": "pink_love_message.png",
+      "text": "Pink Love Message",
+      "tags": ["love", "pink"]
+    },
+    {
+      "path": "pink_rainbow_message.jpg",
+      "text": "Pink Rainbow Message",
+      "tags": ["rainbow", "love", "pink"]
+    },
+    {
+      "path": "love_flowers_message.jpg",
+      "text": "Love Flowers Message",
+      "tags": ["flowers", "love"]
+    }
+  ]
+}

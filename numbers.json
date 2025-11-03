@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "path": "numbers",
+  "data": [
+    {
+      "path": "bright-cute-emojis",
+      "text": "Bright Cute Emojis",
+      "tags": ["bright", "cute", "emojis"]
+    },
+    {
+      "path": "note-list",
+      "text": "Note List",
+      "tags": ["note", "list"]
+    },
+    {
+      "path": "pastel-playtime",
+      "text": "Pastel Playtime",
+      "tags": ["pastel", "playtime"]
+    }
+  ]
+}

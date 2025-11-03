@@ -1,0 +1,42 @@
+{
+  "version": "1",
+  "path": "widgets",
+  "data": [
+    {
+      "path": "love_flowers_medium.jpg",
+      "text": "Love Flowers",
+      "size": "medium",
+      "tags": ["love", "flowers"]
+    },
+    {
+      "path": "love_flowers_small.jpg",
+      "text": "Love Flowers",
+      "size": "small",
+      "tags": ["flowers", "love"]
+    },
+    {
+      "path": "pink_love_medium.jpg",
+      "text": "Pink Love",
+      "size": "medium",
+      "tags": ["pink", "love"]
+    },
+    {
+      "path": "pink_love_small.jpg",
+      "text": "Pink Love",
+      "size": "small",
+      "tags": ["pink", "love"]
+    },
+    {
+      "path": "pink_rainbow_medium.jpg",
+      "text": "Pink Rainbow",
+      "size": "medium",
+      "tags": ["pink", "rainbow"]
+    },
+    {
+      "path": "pink_rainbow_small.jpg",
+      "text": "Pink Rainbow",
+      "size": "small",
+      "tags": ["pink", "rainbow"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "path": "frames",
+  "data": [
+    {
+      "path": "colorful_blink_glow.png",
+      "text": "Colorful Blink Glow",
+      "tags": ["colorful", "blink", "glow"]
+    },
+    {
+      "path": "colorful_flower_pattern.png",
+      "text": "Colorful Flower Pattern",
+      "tags": ["colorful", "flower", "pattern"]
+    }
+  ]
+}
