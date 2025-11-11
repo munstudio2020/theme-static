@@ -1,7 +1,12 @@
 {
-  "version": "1",
+  "version": "2",
   "path": "messages",
   "data": [
+    {
+      "path": "pastel_hearts_message.jpg",
+      "text": "Pastel Hearts",
+      "tags": ["love", "hearts"]
+    },
     {
       "path": "pink_love_message.png",
       "text": "Pink Love Message",

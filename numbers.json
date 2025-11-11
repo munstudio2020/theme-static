@@ -1,7 +1,12 @@
 {
-  "version": "1",
+  "version": "2",
   "path": "numbers",
   "data": [
+    {
+      "path": "pastel-hearts",
+      "text": "Pastel Hearts",
+      "tags": ["hearts", "simple"]
+    },
     {
       "path": "bright-cute-emojis",
       "text": "Bright Cute Emojis",

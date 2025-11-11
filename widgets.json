@@ -1,7 +1,19 @@
 {
-  "version": "1",
+  "version": "2",
   "path": "widgets",
   "data": [
+    {
+      "path": "pastel_hearts_medium.jpg",
+      "text": "Pastel Hearts",
+      "size": "medium",
+      "tags": ["hearts", "love"]
+    },
+    {
+      "path": "pastel_hearts_small.jpg",
+      "text": "Pastel Hearts",
+      "size": "small",
+      "tags": ["hearts", "love"]
+    },
     {
       "path": "love_flowers_medium.jpg",
       "text": "Love Flowers",
@@ -30,13 +42,13 @@
       "path": "pink_rainbow_medium.jpg",
       "text": "Pink Rainbow",
       "size": "medium",
-      "tags": ["pink", "rainbow"]
+      "tags": ["pink", "rainbow", "love"]
     },
     {
       "path": "pink_rainbow_small.jpg",
       "text": "Pink Rainbow",
       "size": "small",
-      "tags": ["pink", "rainbow"]
+      "tags": ["pink", "rainbow", "love"]
     }
   ]
 }
