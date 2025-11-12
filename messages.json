@@ -1,21 +1,11 @@
 {
-  "version": "4",
+  "version": "5",
   "path": "messages",
   "data": [
     {
       "path": "cherry_blossom_pinky_message.jpg",
       "text": "Cherry Blossom Pinky",
       "tags": ["love", "blossom"]
-    },
-    {
-      "path": "floral_pattern_design_message.jpg",
-      "text": "Floral Pattern Design",
-      "tags": ["love", "floral"]
-    },
-    {
-      "path": "blue_blossom_message.jpg",
-      "text": "Blue Blossom",
-      "tags": ["love", "blue"]
     },
     {
       "path": "patchwork_pastels_message.jpg",
