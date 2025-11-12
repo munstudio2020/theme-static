@@ -1,7 +1,163 @@
 {
-  "version": "2",
+  "version": "3",
   "path": "widgets",
   "data": [
+    {
+      "path": "sweet_cherry_bliss_medium.jpg",
+      "text": "Sweet Cherry Bliss",
+      "size": "medium",
+      "tags": ["love", "cherry"]
+    },
+    {
+      "path": "sweet_cherry_bliss_small.jpg",
+      "text": "Sweet Cherry Bliss",
+      "size": "small",
+      "tags": ["love", "cherry"]
+    },
+    {
+      "path": "floral_whispers_medium.jpg",
+      "text": "Floral Whispers",
+      "size": "medium",
+      "tags": ["love", "floral"]
+    },
+    {
+      "path": "floral_whispers_small.jpg",
+      "text": "Floral Whispers",
+      "size": "small",
+      "tags": ["love", "floral"]
+    },
+    {
+      "path": "sweet_blossom_lollipops_medium.jpg",
+      "text": "Sweet Blossom Lollipops",
+      "size": "medium",
+      "tags": ["love", "lollipops"]
+    },
+    {
+      "path": "sweet_blossom_lollipops_small.jpg",
+      "text": "Sweet Blossom Lollipops",
+      "size": "small",
+      "tags": ["love", "lollipops"]
+    },
+    {
+      "path": "colorful_blink_glow_medium.jpg",
+      "text": "Colorful Blink Glow",
+      "size": "medium",
+      "tags": ["love", "colorful"]
+    },
+    {
+      "path": "colorful_blink_glow_small.jpg",
+      "text": "Colorful Blink Glow",
+      "size": "small",
+      "tags": ["love", "colorful"]
+    },
+    {
+      "path": "pixel_cats_medium.jpg",
+      "text": "Pixel Cats",
+      "size": "medium",
+      "tags": ["love", "pixel", "cats"]
+    },
+    {
+      "path": "pixel_cats_small.jpg",
+      "text": "Pixel Cats",
+      "size": "small",
+      "tags": ["love", "pixel", "cats"]
+    },
+    {
+      "path": "tulip_stamp_medium.jpg",
+      "text": "Tulip Stamp",
+      "size": "medium",
+      "tags": ["love", "tulip", "flowers", "stamp"]
+    },
+    {
+      "path": "tulip_stamp_small.jpg",
+      "text": "Tulip Stamp",
+      "size": "small",
+      "tags": ["love", "tulip", "flowers", "stamp"]
+    },
+    {
+      "path": "black_pink_love_medium.jpg",
+      "text": "Black Pink Love",
+      "size": "medium",
+      "tags": ["love", "black", "pink"]
+    },
+    {
+      "path": "black_pink_love_small.jpg",
+      "text": "Black Pink Love",
+      "size": "small",
+      "tags": ["love", "black", "pink"]
+    },
+    {
+      "path": "hello_winter_medium.jpg",
+      "text": "Hello Winter",
+      "size": "medium",
+      "tags": ["love", "blue"]
+    },
+    {
+      "path": "hello_winter_small.jpg",
+      "text": "Hello Winter",
+      "size": "small",
+      "tags": ["love", "blue"]
+    },
+    {
+      "path": "love_song_medium.jpg",
+      "text": "Love Song",
+      "size": "medium",
+      "tags": ["love", "song"]
+    },
+    {
+      "path": "love_song_small.jpg",
+      "text": "Love Song",
+      "size": "small",
+      "tags": ["love", "song"]
+    },
+    {
+      "path": "romantic_letter_medium.jpg",
+      "text": "Romantic Letter",
+      "size": "medium",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "romantic_letter_small.jpg",
+      "text": "Romantic Letter",
+      "size": "small",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "heart_piece_medium.jpg",
+      "text": "Heart Piece",
+      "size": "medium",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "heart_piece_small.jpg",
+      "text": "Heart Piece",
+      "size": "small",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "happy_mood_medium.jpg",
+      "text": "Happy Mood",
+      "size": "medium",
+      "tags": ["love", "pastel"]
+    },
+    {
+      "path": "happy_mood_small.jpg",
+      "text": "Happy Mood",
+      "size": "small",
+      "tags": ["love", "pastel"]
+    },
+    {
+      "path": "bunny_kitty_bliss_medium.jpg",
+      "text": "Bunny Kitty Bliss",
+      "size": "medium",
+      "tags": ["love", "bunny", "kitty"]
+    },
+    {
+      "path": "bunny_kitty_bliss_small.jpg",
+      "text": "Bunny Kitty Bliss",
+      "size": "small",
+      "tags": ["love", "bunny", "kitty"]
+    },
     {
       "path": "pastel_hearts_medium.jpg",
       "text": "Pastel Hearts",

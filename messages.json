@@ -1,7 +1,72 @@
 {
-  "version": "2",
+  "version": "3",
   "path": "messages",
   "data": [
+    {
+      "path": "sweet_cherry_bliss_message.jpg",
+      "text": "Sweet Cherry Bliss",
+      "tags": ["love", "cherry"]
+    },
+    {
+      "path": "floral_whispers_message.jpg",
+      "text": "Floral Whispers",
+      "tags": ["love", "floral"]
+    },
+    {
+      "path": "sweet_blossom_lollipops_message.jpg",
+      "text": "Sweet Blossom Lollipops",
+      "tags": ["love", "lollipops"]
+    },
+    {
+      "path": "colorful_blink_glow_message.jpg",
+      "text": "Colorful Blink Glow",
+      "tags": ["love", "colorful"]
+    },
+    {
+      "path": "pixel_cats_message.jpg",
+      "text": "Pixel Cats",
+      "tags": ["love", "pixel", "cats"]
+    },
+    {
+      "path": "tulip_stamp_message.jpg",
+      "text": "Tulip Stamp",
+      "tags": ["love", "tulip", "flowers", "stamp"]
+    },
+    {
+      "path": "black_pink_love_message.jpg",
+      "text": "Black Pink Love",
+      "tags": ["love", "black", "pink"]
+    },
+    {
+      "path": "hello_winter_message.jpg",
+      "text": "Hello Winter",
+      "tags": ["love", "blue"]
+    },
+    {
+      "path": "love_song_message.jpg",
+      "text": "Love Song",
+      "tags": ["love", "song"]
+    },
+    {
+      "path": "romantic_letter_message.jpg",
+      "text": "Romantic Letter",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "heart_piece_message.jpg",
+      "text": "Heart Piece",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "happy_mood_message.jpg",
+      "text": "Happy Mood",
+      "tags": ["love", "pastel"]
+    },
+    {
+      "path": "bunny_kitty_bliss_message.jpg",
+      "text": "Bunny Kitty Bliss",
+      "tags": ["love", "bunny", "kitty"]
+    },
     {
       "path": "pastel_hearts_message.jpg",
       "text": "Pastel Hearts",
