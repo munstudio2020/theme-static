@@ -1,11 +1,26 @@
 {
-  "version": "3",
+  "version": "4",
   "path": "messages",
   "data": [
     {
-      "path": "sweet_cherry_bliss_message.jpg",
-      "text": "Sweet Cherry Bliss",
-      "tags": ["love", "cherry"]
+      "path": "cherry_blossom_pinky_message.jpg",
+      "text": "Cherry Blossom Pinky",
+      "tags": ["love", "blossom"]
+    },
+    {
+      "path": "floral_pattern_design_message.jpg",
+      "text": "Floral Pattern Design",
+      "tags": ["love", "floral"]
+    },
+    {
+      "path": "blue_blossom_message.jpg",
+      "text": "Blue Blossom",
+      "tags": ["love", "blue"]
+    },
+    {
+      "path": "patchwork_pastels_message.jpg",
+      "text": "Patchwork Pastels",
+      "tags": ["love", "grid"]
     },
     {
       "path": "floral_whispers_message.jpg",
@@ -23,29 +38,9 @@
       "tags": ["love", "colorful"]
     },
     {
-      "path": "pixel_cats_message.jpg",
-      "text": "Pixel Cats",
-      "tags": ["love", "pixel", "cats"]
-    },
-    {
-      "path": "tulip_stamp_message.jpg",
-      "text": "Tulip Stamp",
-      "tags": ["love", "tulip", "flowers", "stamp"]
-    },
-    {
-      "path": "black_pink_love_message.jpg",
-      "text": "Black Pink Love",
-      "tags": ["love", "black", "pink"]
-    },
-    {
       "path": "hello_winter_message.jpg",
       "text": "Hello Winter",
       "tags": ["love", "blue"]
-    },
-    {
-      "path": "love_song_message.jpg",
-      "text": "Love Song",
-      "tags": ["love", "song"]
     },
     {
       "path": "romantic_letter_message.jpg",

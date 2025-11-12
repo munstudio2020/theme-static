@@ -1,7 +1,32 @@
 {
-  "version": "3",
+  "version": "4",
   "path": "numbers",
   "data": [
+    {
+      "path": "cute-duck-chilling-vibe",
+      "text": "Cute Duck Chilling Vibe",
+      "tags": ["cute", "colorful"]
+    },
+    {
+      "path": "sweet-ice-cream-pattern",
+      "text": "Sweet-Ice-Cream-Pattern",
+      "tags": ["cute", "colorful"]
+    },
+    {
+      "path": "black-cat-icon",
+      "text": "Black Cat Icon",
+      "tags": ["cute", "black"]
+    },
+    {
+      "path": "to-do-list",
+      "text": "To Do List",
+      "tags": ["cute", "colorful"]
+    },
+    {
+      "path": "piggy-squad",
+      "text": "Piggy Squad",
+      "tags": ["cute", "pink"]
+    },
     {
       "path": "sweet-cherry-bliss",
       "text": "Sweet Cherry Bliss",
