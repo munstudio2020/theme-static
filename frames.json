@@ -18,14 +18,39 @@
       "tags": ["lucky", "star"]
     },
     {
-      "path": "colorful_blink_glow.png",
-      "text": "Colorful Blink Glow",
-      "tags": ["colorful", "blink", "glow"]
+      "path": "ladybug_love.png",
+      "text": "Ladybug Love",
+      "tags": ["ladybug", "love"]
     },
     {
-      "path": "colorful_flower_pattern.png",
-      "text": "Colorful Flower Pattern",
-      "tags": ["colorful", "flower", "pattern"]
+      "path": "love_heart.png",
+      "text": "Love Heart",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "love_letter.png",
+      "text": "Love Letter",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "love_theme.png",
+      "text": "Love Theme",
+      "tags": ["love", "theme"]
+    },
+    {
+      "path": "love.png",
+      "text": "Love",
+      "tags": ["love"]
+    },
+    {
+      "path": "lovely_polaroids.png",
+      "text": "Lovely Polaroids",
+      "tags": ["love", "polaroids"]
+    },
+    {
+      "path": "pixel_love_chat.png",
+      "text": "Pixel Love Chat",
+      "tags": ["love", "pixel"]
     }
   ]
 }
