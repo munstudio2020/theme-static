@@ -3,6 +3,21 @@
   "path": "frames",
   "data": [
     {
+      "path": "cute_duck.png",
+      "text": "Cute Duck",
+      "tags": ["cute", "duck"]
+    },
+    {
+      "path": "pinky_bow.png",
+      "text": "Pinky Bow",
+      "tags": ["pink", "bow"]
+    },
+    {
+      "path": "lucky_star.png",
+      "text": "Lucky Star",
+      "tags": ["lucky", "star"]
+    },
+    {
       "path": "colorful_blink_glow.png",
       "text": "Colorful Blink Glow",
       "tags": ["colorful", "blink", "glow"]
