@@ -1,4 +1,13 @@
 {
-  "datas": [],
+  "datas": [
+    {
+      "name": "Icon Changer - Mun Theme",
+      "appId": "com.luantran.customicon",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.customicon&source=GBadge_01_8688236_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://play-lh.googleusercontent.com/16JkTYnqffP4eKCKFbpZPR7Pk-x2Kdj7MMWhRu9ZNaZg3P3tmQ2oXtmyx_dIzrTpY74a=s512",
+      "description": "Customize your phone with beautiful custom icons like social media icons,... Make your home screen unique and stylish.",
+      "isPromotion": true
+    }
+  ],
   "updated": 1736323200
 }
