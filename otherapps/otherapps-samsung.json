@@ -7,6 +7,14 @@
       "avatar": "https://play-lh.googleusercontent.com/16JkTYnqffP4eKCKFbpZPR7Pk-x2Kdj7MMWhRu9ZNaZg3P3tmQ2oXtmyx_dIzrTpY74a=s512",
       "description": "Customize your phone with beautiful custom icons like social media icons,... Make your home screen unique and stylish.",
       "isPromotion": true
+    },
+    {
+      "name": "Pillcam Reminder: Med Tracker",
+      "appId": "com.luantran.pillcamreminder",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.pillcamreminder&source=GBadge_01_8874074_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://lh3.googleusercontent.com/7_uICdR46e06_wrI6MMkXsTUxany4on3wwLJSu6LkPNU7BpUtggrxZmsvQcwZUHiIuOimuRucsRzrw34uq1fug",
+      "description": "PillCam Reminder is a medication reminder app that lets you add your meds, get reminders, and optionally require a photo each time you mark a dose, so you can compare with your reference and never wonder “Did I take it or not?”",
+      "isPromotion": false
     }
   ],
   "updated": 1736323200
