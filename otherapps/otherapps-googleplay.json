@@ -1,21 +1,45 @@
 {
   "datas": [
     {
-      "name": "Custom Icon",
+      "name": "Icon Changer - Mun Custom Icon",
       "appId": "com.luantran.customicon",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.customicon",
-      "avatar": "https://play-lh.googleusercontent.com/16JkTYnqffP4eKCKFbpZPR7Pk-x2Kdj7MMWhRu9ZNaZg3P3tmQ2oXtmyx_dIzrTpY74a=s512",
-      "description": "Customize your phone with beautiful custom icons and themes. Make your home screen unique and stylish.",
+      "avatar": "https://play-lh.googleusercontent.com/5yyiDGIJow6xZPXEdQW2wrvjeFFGtIvvL_w54YyFr7VT7pf42apiEyxRV0qYUv01k2eF-PJhcOq889FGtbG-2A=s512",
+      "description": "Customize default app icons for Facebook, Instagram, TikTok, WhatsApp, and more. Pairs seamlessly with Mun Studio Samsung themes.",
       "isPromotion": true
     },
     {
       "name": "Pillcam Reminder: Med Tracker",
       "appId": "com.luantran.pillcamreminder",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.pillcamreminder",
-      "avatar": "https://lh3.googleusercontent.com/7_uICdR46e06_wrI6MMkXsTUxany4on3wwLJSu6LkPNU7BpUtggrxZmsvQcwZUHiIuOimuRucsRzrw34uq1fug",
-      "description": "PillCam Reminder is a medication reminder app that lets you add your meds, get reminders, and optionally require a photo each time you mark a dose, so you can compare with your reference and never wonder “Did I take it or not?”",
+      "avatar": "https://play-lh.googleusercontent.com/7_uICdR46e06_wrI6MMkXsTUxany4on3wwLJSu6LkPNU7BpUtggrxZmsvQcwZUHiIuOimuRucsRzrw34uq1fug=s512",
+      "description": "Medication reminders with optional photo proof — add your meds, get reliable alerts, and never wonder \"Did I take it?\"",
+      "isPromotion": false
+    },
+    {
+      "name": "Videorist - Video Art Maker",
+      "appId": "com.luantran.videorist.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.videorist.android",
+      "avatar": "https://play-lh.googleusercontent.com/0MH0PNNz0i91ay3I5AgXCSkvoIQkF10iduYZ1xU-39QaG4Vc7KLDvwEyKMcUKaWSNKStVHk5s8bPsLNrh0ET=s512",
+      "description": "Transform videos into artwork with AI-powered style transfer — oil painting, watercolor, sketch, and more. Buy once, use forever.",
+      "isPromotion": false
+    },
+    {
+      "name": "Fotorist: AI Art Photo Editor",
+      "appId": "com.luantran.fotorist.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.fotorist.android",
+      "avatar": "https://play-lh.googleusercontent.com/i7QsekjGazXImuMCS6MnGmnrxlhRv6bW5pImHOSnoKGjkPK4H8HhLt8aA415A-4E23YIHlKhnR-Jfv2NiIkJqA=s512",
+      "description": "Turn any photo into AI-generated artwork in seconds. Real neural style transfer with 40+ art styles — not just filters.",
+      "isPromotion": false
+    },
+    {
+      "name": "Whats Song -wacky music trivia",
+      "appId": "com.luantran.whatssong.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.whatssong.android",
+      "avatar": "https://play-lh.googleusercontent.com/Jvd862Muo77QQNn7krFKx97jTzV17q501v4-humkbzciij007bCG4l9bVfkH_EV1BrgMqZohluw9dUqJSvmxyQ=s512",
+      "description": "Hear a clip, guess the song! Drag scrambled letter tiles into the right order, climb the leaderboard, and build custom quizzes.",
       "isPromotion": false
     }
   ],
-  "updated": 1736323200
+  "updated": 1781240554
 }
