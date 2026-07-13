@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Peek Pod: Moments with Friends",
+      "appId": "com.luantran.peek.android",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.peek.android&source=GBadge_01_9053678_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://play-lh.googleusercontent.com/a0nQzMJS4b19E5KhuyJ5dYdPjUFOWinosAJTik5wmv-itCd1cqmfQuEM08k7jxmE8tX20dCwchl0axPtHj3jmA=s512",
+      "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
+      "isPromotion": true
+    },
+    {
       "name": "Icon Changer - Mun Custom Icon",
       "appId": "com.luantran.customicon",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.customicon&source=GBadge_01_8688236_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
@@ -49,5 +57,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1781240554
+  "updated": 1783950921
 }
