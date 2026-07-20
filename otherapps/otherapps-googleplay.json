@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Kawaii Jigsaw: Cute Puzzles",
+      "appId": "com.luantran.purrfectpieces.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.purrfectpieces.android",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ea/68/0eea68a6-16e0-c302-3b26-d43fc177d6f0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Cozy, relaxing jigsaw puzzles filled with adorable kawaii artwork. Choose your difficulty, snap pieces into place, and unwind.",
+      "isPromotion": true
+    },
+    {
       "name": "Peek Pod: Moments with Friends",
       "appId": "com.luantran.peek.android",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.peek.android",
