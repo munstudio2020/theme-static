@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Viking Row: Drum Rhythm Game",
+      "appId": "com.luantran.vikingrow.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.vikingrow.android",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/83/70/1c8370a6-e31c-cd5f-981f-d702dbe1fe63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Row to a pounding Norse war-drum beat — your camera reads every stroke and your voice scores every chant. Miss the rhythm four times and the voyage ends.",
+      "isPromotion": true
+    },
+    {
       "name": "Kawaii Jigsaw: Cute Puzzles",
       "appId": "com.luantran.purrfectpieces.android",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.purrfectpieces.android",
