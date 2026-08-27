@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Sea Sort: Water Color Puzzle",
+      "appId": "com.luantran.seasort.android",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.seasort.android&source=GBadge_01_9166469_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://play-lh.googleusercontent.com/SNZ5BTrmVU9iW3dFFCxZWfSq_YUV6qN5-srmJiADHwg6O7yBYcn7df_sbla0Vy_-ifbUhl7ugYx9IsGN6VtKPQ=s512",
+      "description": "Pour adorable sea creatures between jars until every jar holds a single species — 100 handcrafted levels across 7 ocean biomes, and no timers, ever.",
+      "isPromotion": true
+    },
+    {
       "name": "Viking Row: Drum Rhythm Game",
       "appId": "com.luantran.vikingrow.android",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.vikingrow.android&source=GBadge_01_9142299_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
@@ -73,5 +81,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1786800000
+  "updated": 1787814263
 }
