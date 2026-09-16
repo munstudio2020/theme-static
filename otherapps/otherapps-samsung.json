@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Bulk Watermark: Photo & Video",
+      "appId": "com.luantran.marque.android",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.marque.android&source=GBadge_01_9175066_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://play-lh.googleusercontent.com/jKpSy6MRrk-0PBOXCJs3rIUkjrVwRa1Yd4dV79q1Q6hrcFAW-IniUKyNl8s_HJXcu5VvKhdPjVS-X7Tu_90F0Q=s512",
+      "description": "Batch watermark hundreds of photos and videos at once — logo, text, tiled, or a running ticker, exported at full resolution, entirely on your device.",
+      "isPromotion": true
+    },
+    {
       "name": "Sea Sort: Water Color Puzzle",
       "appId": "com.luantran.seasort.android",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.seasort.android&source=GBadge_01_9166469_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
