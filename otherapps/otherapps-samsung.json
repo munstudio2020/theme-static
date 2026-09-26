@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Stitchy: Long Screenshot",
+      "appId": "com.reef.videotoimage",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.reef.videotoimage&source=GBadge_01_9257216_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b6/ed/dcb6eda5-4002-a522-803f-b00d350fb21a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Turn a single screen recording into one tall long screenshot — Stitchy joins every frame on your device, trims repeated headers, and exports as one image or slices.",
+      "isPromotion": true
+    },
+    {
       "name": "Bulk Watermark: Photo & Video",
       "appId": "com.luantran.marque.android",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.marque.android&source=GBadge_01_9175066_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
@@ -38,7 +46,7 @@
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.peek.android&source=GBadge_01_9053678_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
       "avatar": "https://play-lh.googleusercontent.com/a0nQzMJS4b19E5KhuyJ5dYdPjUFOWinosAJTik5wmv-itCd1cqmfQuEM08k7jxmE8tX20dCwchl0axPtHj3jmA=s512",
       "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
-      "isPromotion": true
+      "isPromotion": false
     },
     {
       "name": "Icon Changer - Mun Custom Icon",
@@ -89,5 +97,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1787814263
+  "updated": 1790391638
 }

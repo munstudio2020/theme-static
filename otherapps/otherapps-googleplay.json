@@ -38,6 +38,14 @@
       "link": "https://play.google.com/store/apps/details?id=com.luantran.peek.android",
       "avatar": "https://play-lh.googleusercontent.com/a0nQzMJS4b19E5KhuyJ5dYdPjUFOWinosAJTik5wmv-itCd1cqmfQuEM08k7jxmE8tX20dCwchl0axPtHj3jmA=s512",
       "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
+      "isPromotion": false
+    },
+    {
+      "name": "FairyFace: Watch Face Store",
+      "appId": "com.luantran.watchface",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.watchface",
+      "avatar": "https://play-lh.googleusercontent.com/fQEPlGWhbkhaijLLZCea7HFivhNIgfI6HoBFWqfrRlSSWZzuu9Kyt2dbr5M5QztQmJTs--wytYKZP-5vFBIi3g=s512",
+      "description": "Cute, illustrated kawaii watch faces for Wear OS - browse handcrafted pastel designs and send one to your smartwatch in a single tap.",
       "isPromotion": true
     },
     {
@@ -89,5 +97,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1787814263
+  "updated": 1790391638
 }
