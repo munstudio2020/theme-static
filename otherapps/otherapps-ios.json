@@ -1,0 +1,111 @@
+{
+  "datas": [
+    {
+      "name": "Stitchy: Long Screenshot",
+      "appId": 6801822052,
+      "link": "itms-apps://apps.apple.com/us/app/stitchy-long-screenshot/id6801822052",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b6/ed/dcb6eda5-4002-a522-803f-b00d350fb21a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Turn a single screen recording into one tall long screenshot — Stitchy joins every frame on your device, trims repeated headers, and exports as one image or slices.",
+      "isPromotion": true
+    },
+    {
+      "name": "Bulk Watermark: Photo & Video",
+      "appId": 6787391158,
+      "link": "itms-apps://apps.apple.com/us/app/bulk-watermark-photo-video/id6787391158",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/0a/38/3d0a38f0-96cc-9e42-72f9-df0282d0ac3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Batch watermark hundreds of photos and videos at once — logo, text, tiled, or a running ticker, exported at full resolution, entirely on your device.",
+      "isPromotion": true
+    },
+    {
+      "name": "Sea Sort: Water Color Puzzle",
+      "appId": 6791066364,
+      "link": "itms-apps://apps.apple.com/us/app/sea-sort-water-color-puzzle/id6791066364",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3c/a9/653ca9fe-3691-2ad8-5162-1cd9383a0316/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Pour adorable sea creatures between jars until every jar holds a single species — 100 handcrafted levels across 7 ocean biomes, and no timers, ever.",
+      "isPromotion": true
+    },
+    {
+      "name": "Viking Row: Drum Rhythm Game",
+      "appId": 6791913638,
+      "link": "itms-apps://apps.apple.com/us/app/viking-row-drum-rhythm-game/id6791913638",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/83/70/1c8370a6-e31c-cd5f-981f-d702dbe1fe63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Row to a pounding Norse war-drum beat — your camera reads every stroke and your voice scores every chant. Miss the rhythm four times and the voyage ends.",
+      "isPromotion": true
+    },
+    {
+      "name": "Kawaii Jigsaw: Cute Puzzles",
+      "appId": 6784155957,
+      "link": "itms-apps://apps.apple.com/us/app/kawaii-jigsaw-cute-puzzles/id6784155957",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ea/68/0eea68a6-16e0-c302-3b26-d43fc177d6f0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Cozy, relaxing jigsaw puzzles filled with adorable kawaii artwork. Choose your difficulty, snap pieces into place, and unwind.",
+      "isPromotion": true
+    },
+    {
+      "name": "Peek Pod: Moments with Friends",
+      "appId": 6777406615,
+      "link": "itms-apps://apps.apple.com/us/app/peek-pod-moments-with-friends/id6777406615",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/70/01/d97001ed-5372-23af-fa2f-5b950d847e35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
+      "isPromotion": false
+    },
+    {
+      "name": "FairyFace: Watch Face Store",
+      "appId": 6779118044,
+      "link": "itms-apps://apps.apple.com/us/app/fairyface-watch-face-store/id6779118044",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/7a/60/047a60f5-3445-90f6-3705-273eff9ec53b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "description": "Cute, illustrated kawaii watch face themes for your Apple Watch — browse handcrafted pastel designs and install them in one tap.",
+      "video": "https://pub-83a7022bb29a4f9aabca8c2cea0d3c60.r2.dev/videos/fairyface.mov",
+      "isPromotion": true
+    },
+    {
+      "name": "Love Widget: Live Couple Pics",
+      "appId": 6755095761,
+      "link": "itms-apps://apps.apple.com/app/love-widget-couple-day-count/id6755095761",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/ef/52/58ef5238-11e4-4793-f0f9-9da590b5bca9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Love Widget lets couples share photos and videos directly to each other's Home Screen, count love days, and track upcoming special events.",
+      "isPromotion": true
+    },
+    {
+      "name": "Pillcam Reminder: Med Tracker",
+      "appId": 6755712718,
+      "link": "itms-apps://apps.apple.com/us/app/pillcam-reminder-med-tracker/id6755712718",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/71/9c/b1719c97-37d1-2a22-64d2-a59b04c6f293/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "description": "Medication reminders with optional photo proof — add your meds, get reliable alerts, and never wonder \"Did I take it?\"",
+      "isPromotion": true
+    },
+    {
+      "name": "Theme Store: widget changer",
+      "appId": 1558427419,
+      "link": "itms-apps://apps.apple.com/us/app/theme-store-widget-changer/id1558427419",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/51/a5/2051a52b-a0fa-07ce-adae-5cc744870388/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Full iPhone aesthetic makeover — matching app icons, home and lock wallpapers, and customizable widgets in one guided flow.",
+      "video": "https://pub-83a7022bb29a4f9aabca8c2cea0d3c60.r2.dev/videos/themestore.mp4",
+      "isPromotion": true
+    },
+    {
+      "name": "Videorist - Video Art Maker",
+      "appId": 1548702557,
+      "link": "itms-apps://apps.apple.com/us/app/videorist-video-art-maker/id1548702557",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/75/b6/6375b684-5625-ad92-25df-980b0356122b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Transform videos into artwork with AI-powered style transfer — oil painting, watercolor, sketch, and more. Buy once, use forever.",
+      "isPromotion": false
+    },
+    {
+      "name": "Fotorist: Art Photo Editor",
+      "appId": 1458759770,
+      "link": "itms-apps://apps.apple.com/us/app/fotorist-art-photo-editor/id1458759770",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/5f/fd/275ffd7f-995e-aaf0-ed6a-60eb5a1b89f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "description": "Turn any photo into AI-generated artwork in seconds. Real neural style transfer with 40+ art styles — not just filters.",
+      "isPromotion": false
+    },
+    {
+      "name": "Whats Song -wacky music trivia",
+      "appId": 1237758273,
+      "link": "itms-apps://apps.apple.com/us/app/whats-song-wacky-music-trivia/id1237758273",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/d6/6a/2ed66a1e-01eb-540e-c431-7d564ad6e98a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Hear a clip, guess the song! Drag scrambled letter tiles into the right order, climb the leaderboard, and build custom quizzes.",
+      "isPromotion": false
+    }
+  ],
+  "updated": 1787844263
+}

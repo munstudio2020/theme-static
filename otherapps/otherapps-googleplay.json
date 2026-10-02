@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Stitchy: Long Screenshot",
+      "appId": "com.reef.videotoimage",
+      "link": "https://play.google.com/store/apps/details?id=com.reef.videotoimage",
+      "avatar": "https://play-lh.googleusercontent.com/mkOWiXMh1lXZ8JprDlTyhnCETNAVOlURtx4VmtqPvaE2Yx77bco_BnkgAyuormgAgWD8_J3n-XFhU-XmbQQx=s512",
+      "description": "Turn a single screen recording into one tall long screenshot — Stitchy joins every frame on your device, trims repeated headers, and exports as one image or slices.",
+      "isPromotion": true
+    },
+    {
       "name": "Bulk Watermark: Photo & Video",
       "appId": "com.luantran.marque.android",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.marque.android",
