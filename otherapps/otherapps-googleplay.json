@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Blur Face: Photo & Video",
+      "appId": "com.luantran.blurfacevideo.android",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.blurfacevideo.android",
+      "avatar": "https://munapp.pages.dev/resources/Blur-Face-app-icon.png",
+      "description": "Automatically find and hide faces in photos and videos with frame-by-frame tracking, bulk processing, and 15 privacy styles — all on your device.",
+      "isPromotion": true
+    },
+    {
       "name": "Stitchy: Long Screenshot",
       "appId": "com.reef.videotoimage",
       "link": "https://play.google.com/store/apps/details?id=com.reef.videotoimage",
@@ -105,5 +113,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1790391638
+  "updated": 1791552557
 }
