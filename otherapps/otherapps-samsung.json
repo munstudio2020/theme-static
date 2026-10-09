@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Blur Face: Photo & Video",
+      "appId": "com.luantran.blurfacevideo.android",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.blurfacevideo.android&source=GBadge_01_9301857_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://munapp.pages.dev/resources/Blur-Face-app-icon.png",
+      "description": "Automatically find and hide faces in photos and videos with frame-by-frame tracking, bulk processing, and 15 privacy styles — all on your device.",
+      "isPromotion": true
+    },
+    {
       "name": "Stitchy: Long Screenshot",
       "appId": "com.reef.videotoimage",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.reef.videotoimage&source=GBadge_01_9257216_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
@@ -97,5 +105,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1790391638
+  "updated": 1791552557
 }
