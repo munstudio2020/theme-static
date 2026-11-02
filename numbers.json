@@ -1,5 +1,5 @@
 {
-  "version": "4",
+  "version": "5",
   "path": "numbers",
   "data": [
     {
@@ -106,6 +106,66 @@
       "path": "pastel-playtime",
       "text": "Pastel Playtime",
       "tags": ["pastel", "playtime"]
+    },
+    {
+      "path": "pastel-heart-dreams",
+      "text": "Pastel Heart Dreams",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "pixel-love-cat",
+      "text": "Pixel Love Cat",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "cute-polaroid-love",
+      "text": "Cute Polaroid Love",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "lofi-love-melody",
+      "text": "Lofi Love Melody",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "party-couple",
+      "text": "Party Couple",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "angel-devil-love",
+      "text": "Angel Devil Love",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "love-phone",
+      "text": "Love Phone",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "sunflower-love-letter",
+      "text": "Sunflower Love Letter",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "lovely-tulip-bloom",
+      "text": "Lovely Tulip Bloom",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "glowing-pink-butterfly",
+      "text": "Glowing Pink Butterfly",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "cats-in-love",
+      "text": "Cats In Love",
+      "tags": ["love", "cute"]
+    },
+    {
+      "path": "red-squirrel-couple",
+      "text": "Red Squirrel Couple",
+      "tags": ["love", "cute"]
     }
   ]
 }

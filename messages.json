@@ -1,5 +1,5 @@
 {
-  "version": "5",
+  "version": "6",
   "path": "messages",
   "data": [
     {
@@ -71,6 +71,76 @@
       "path": "love_flowers_message.jpg",
       "text": "Love Flowers Message",
       "tags": ["flowers", "love"]
+    },
+    {
+      "path": "pastel_heart_dreams_message.jpg",
+      "text": "Pastel Heart Dreams",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "pixel_love_cat_message.jpg",
+      "text": "Pixel Love Cat",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "pixel_love_xo_message.jpg",
+      "text": "Pixel Love Xo",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "party_couple_message.jpg",
+      "text": "Party Couple",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "angel_devil_love_message.jpg",
+      "text": "Angel Devil Love",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "bunny_bear_valentine_message.jpg",
+      "text": "Bunny Bear Valentine",
+      "tags": ["love", "valentine"]
+    },
+    {
+      "path": "retro_heart_love_message.jpg",
+      "text": "Retro Heart Love",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "love_phone_message.jpg",
+      "text": "Love Phone",
+      "tags": ["love", "pink"]
+    },
+    {
+      "path": "sunflower_love_letter_message.jpg",
+      "text": "Sunflower Love Letter",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "lovely_tulip_bloom_message.jpg",
+      "text": "Lovely Tulip Bloom",
+      "tags": ["love", "tulip"]
+    },
+    {
+      "path": "glowing_pink_butterfly_message.jpg",
+      "text": "Glowing Pink Butterfly",
+      "tags": ["love", "butterfly"]
+    },
+    {
+      "path": "lovely_punk_bunny_message.jpg",
+      "text": "Lovely Punk Bunny",
+      "tags": ["love", "bunny"]
+    },
+    {
+      "path": "cats_in_love_message.jpg",
+      "text": "Cats In Love",
+      "tags": ["love", "cat"]
+    },
+    {
+      "path": "cat_and_dog_in_love_message.jpg",
+      "text": "Cat And Dog In Love",
+      "tags": ["love", "cat"]
     }
   ]
 }

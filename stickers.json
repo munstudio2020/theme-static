@@ -1,0 +1,114 @@
+{
+  "version": "1",
+  "path": "stickers",
+  "data": [
+    {
+      "kind": 0,
+      "path": "red_heart.png",
+      "text": "Red Heart",
+      "tags": ["heart", "love"]
+    },
+    {
+      "kind": 1,
+      "path": "heart_trio.png",
+      "text": "Heart Trio",
+      "tags": ["heart", "love"]
+    },
+    {
+      "kind": 2,
+      "path": "cupid_heart.png",
+      "text": "Cupid Heart",
+      "tags": ["heart", "cupid"]
+    },
+    {
+      "kind": 3,
+      "path": "pixel_heart.png",
+      "text": "Pixel Heart",
+      "tags": ["heart", "pixel"]
+    },
+    {
+      "kind": 4,
+      "path": "scribble_heart.png",
+      "text": "Scribble Heart",
+      "tags": ["heart", "pastel"]
+    },
+    {
+      "kind": 5,
+      "path": "watercolor_hearts.png",
+      "text": "Watercolor Hearts",
+      "tags": ["heart", "watercolor"]
+    },
+    {
+      "kind": 6,
+      "path": "sweet_heart.png",
+      "text": "Sweet Heart",
+      "tags": ["heart", "pink"]
+    },
+    {
+      "kind": 7,
+      "path": "pink_hearts.png",
+      "text": "Pink Hearts",
+      "tags": ["heart", "pink"]
+    },
+    {
+      "kind": 8,
+      "path": "blushing_bunny.png",
+      "text": "Blushing Bunny",
+      "tags": ["bunny", "cute"]
+    },
+    {
+      "kind": 9,
+      "path": "kissing_pets.png",
+      "text": "Kissing Pets",
+      "tags": ["cat", "dog", "kiss"]
+    },
+    {
+      "kind": 10,
+      "path": "heart_paw.png",
+      "text": "Heart Paw",
+      "tags": ["cat", "paw"]
+    },
+    {
+      "kind": 11,
+      "path": "squirrel_couple.png",
+      "text": "Squirrel Couple",
+      "tags": ["couple", "animal"]
+    },
+    {
+      "kind": 12,
+      "path": "pink_blossom.png",
+      "text": "Pink Blossom",
+      "tags": ["flower", "pink"]
+    },
+    {
+      "kind": 13,
+      "path": "pink_tulip.png",
+      "text": "Pink Tulip",
+      "tags": ["flower", "tulip"]
+    },
+    {
+      "kind": 14,
+      "path": "bunny_face.png",
+      "text": "Bunny Face",
+      "tags": ["bunny", "cute"]
+    },
+    {
+      "kind": 15,
+      "path": "lucky_star.png",
+      "text": "Lucky Star",
+      "tags": ["star", "yellow"]
+    },
+    {
+      "kind": 16,
+      "path": "pixel_sparkle.png",
+      "text": "Pixel Sparkle",
+      "tags": ["sparkle", "pixel"]
+    },
+    {
+      "kind": 17,
+      "path": "cupid_bow.png",
+      "text": "Cupid Bow",
+      "tags": ["cupid", "arrow"]
+    }
+  ]
+}

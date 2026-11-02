@@ -1,5 +1,5 @@
 {
-  "version": "3",
+  "version": "4",
   "path": "widgets",
   "data": [
     {
@@ -205,6 +205,174 @@
       "text": "Pink Rainbow",
       "size": "small",
       "tags": ["pink", "rainbow", "love"]
+    },
+    {
+      "path": "pastel_heart_dreams_medium.jpg",
+      "text": "Pastel Heart Dreams",
+      "size": "medium",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "pastel_heart_dreams_small.jpg",
+      "text": "Pastel Heart Dreams",
+      "size": "small",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "pixel_love_cat_medium.jpg",
+      "text": "Pixel Love Cat",
+      "size": "medium",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "pixel_love_cat_small.jpg",
+      "text": "Pixel Love Cat",
+      "size": "small",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "pixel_love_xo_medium.jpg",
+      "text": "Pixel Love Xo",
+      "size": "medium",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "pixel_love_xo_small.jpg",
+      "text": "Pixel Love Xo",
+      "size": "small",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "party_couple_medium.jpg",
+      "text": "Party Couple",
+      "size": "medium",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "party_couple_small.jpg",
+      "text": "Party Couple",
+      "size": "small",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "angel_devil_love_medium.jpg",
+      "text": "Angel Devil Love",
+      "size": "medium",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "angel_devil_love_small.jpg",
+      "text": "Angel Devil Love",
+      "size": "small",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "bunny_bear_valentine_medium.jpg",
+      "text": "Bunny Bear Valentine",
+      "size": "medium",
+      "tags": ["love", "valentine"]
+    },
+    {
+      "path": "bunny_bear_valentine_small.jpg",
+      "text": "Bunny Bear Valentine",
+      "size": "small",
+      "tags": ["love", "valentine"]
+    },
+    {
+      "path": "retro_heart_love_medium.jpg",
+      "text": "Retro Heart Love",
+      "size": "medium",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "retro_heart_love_small.jpg",
+      "text": "Retro Heart Love",
+      "size": "small",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "love_phone_medium.jpg",
+      "text": "Love Phone",
+      "size": "medium",
+      "tags": ["love", "pink"]
+    },
+    {
+      "path": "love_phone_small.jpg",
+      "text": "Love Phone",
+      "size": "small",
+      "tags": ["love", "pink"]
+    },
+    {
+      "path": "sunflower_love_letter_medium.jpg",
+      "text": "Sunflower Love Letter",
+      "size": "medium",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "sunflower_love_letter_small.jpg",
+      "text": "Sunflower Love Letter",
+      "size": "small",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "lovely_tulip_bloom_medium.jpg",
+      "text": "Lovely Tulip Bloom",
+      "size": "medium",
+      "tags": ["love", "tulip"]
+    },
+    {
+      "path": "lovely_tulip_bloom_small.jpg",
+      "text": "Lovely Tulip Bloom",
+      "size": "small",
+      "tags": ["love", "tulip"]
+    },
+    {
+      "path": "glowing_pink_butterfly_medium.jpg",
+      "text": "Glowing Pink Butterfly",
+      "size": "medium",
+      "tags": ["love", "butterfly"]
+    },
+    {
+      "path": "glowing_pink_butterfly_small.jpg",
+      "text": "Glowing Pink Butterfly",
+      "size": "small",
+      "tags": ["love", "butterfly"]
+    },
+    {
+      "path": "lovely_punk_bunny_medium.jpg",
+      "text": "Lovely Punk Bunny",
+      "size": "medium",
+      "tags": ["love", "bunny"]
+    },
+    {
+      "path": "lovely_punk_bunny_small.jpg",
+      "text": "Lovely Punk Bunny",
+      "size": "small",
+      "tags": ["love", "bunny"]
+    },
+    {
+      "path": "cats_in_love_medium.jpg",
+      "text": "Cats In Love",
+      "size": "medium",
+      "tags": ["love", "cat"]
+    },
+    {
+      "path": "cats_in_love_small.jpg",
+      "text": "Cats In Love",
+      "size": "small",
+      "tags": ["love", "cat"]
+    },
+    {
+      "path": "cat_and_dog_in_love_medium.jpg",
+      "text": "Cat And Dog In Love",
+      "size": "medium",
+      "tags": ["love", "cat"]
+    },
+    {
+      "path": "cat_and_dog_in_love_small.jpg",
+      "text": "Cat And Dog In Love",
+      "size": "small",
+      "tags": ["love", "cat"]
     }
   ]
 }

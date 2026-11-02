@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "path": "frames",
   "data": [
     {
@@ -51,6 +51,56 @@
       "path": "pixel_love_chat.png",
       "text": "Pixel Love Chat",
       "tags": ["love", "pixel"]
+    },
+    {
+      "path": "pastel_heart_dreams.png",
+      "text": "Pastel Heart Dreams",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "pixel_love_cat.png",
+      "text": "Pixel Love Cat",
+      "tags": ["love", "pixel"]
+    },
+    {
+      "path": "party_couple.png",
+      "text": "Party Couple",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "angel_devil_love.png",
+      "text": "Angel Devil Love",
+      "tags": ["love", "couple"]
+    },
+    {
+      "path": "bunny_bear_valentine.png",
+      "text": "Bunny Bear Valentine",
+      "tags": ["love", "valentine"]
+    },
+    {
+      "path": "retro_heart_love.png",
+      "text": "Retro Heart Love",
+      "tags": ["love", "heart"]
+    },
+    {
+      "path": "love_phone.png",
+      "text": "Love Phone",
+      "tags": ["love", "pink"]
+    },
+    {
+      "path": "sunflower_love_letter.png",
+      "text": "Sunflower Love Letter",
+      "tags": ["love", "letter"]
+    },
+    {
+      "path": "lovely_tulip_bloom.png",
+      "text": "Lovely Tulip Bloom",
+      "tags": ["love", "tulip"]
+    },
+    {
+      "path": "cat_and_dog_in_love.png",
+      "text": "Cat And Dog In Love",
+      "tags": ["love", "cat"]
     }
   ]
 }
