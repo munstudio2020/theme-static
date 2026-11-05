@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Keydrobe: Cute Keyboard Themes",
+      "appId": 6821652622,
+      "link": "itms-apps://apps.apple.com/us/app/keydrobe-cute-keyboard-themes/id6821652622",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d2/1a/93d21a47-c061-bff8-4c55-e2bad6cef134/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Dress up every key with cute illustrated keyboard themes. Try each theme on a real keyboard first, pick a key font, and type in 10 languages. What you type stays on your device.",
+      "isPromotion": true
+    },
+    {
       "name": "Stitchy: Long Screenshot",
       "appId": 6801822052,
       "link": "itms-apps://apps.apple.com/us/app/stitchy-long-screenshot/id6801822052",
@@ -30,7 +38,7 @@
       "link": "itms-apps://apps.apple.com/us/app/viking-row-drum-rhythm-game/id6791913638",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/83/70/1c8370a6-e31c-cd5f-981f-d702dbe1fe63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "description": "Row to a pounding Norse war-drum beat — your camera reads every stroke and your voice scores every chant. Miss the rhythm four times and the voyage ends.",
-      "isPromotion": true
+      "isPromotion": false
     },
     {
       "name": "Kawaii Jigsaw: Cute Puzzles",
@@ -107,5 +115,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1787844263
+  "updated": 1793853197
 }
