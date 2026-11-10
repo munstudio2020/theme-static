@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Widgetrobe: Cute Widget Themes",
+      "appId": "com.luantran.widgetcollection",
+      "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.widgetcollection&source=GBadge_01_9361364_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
+      "avatar": "https://play-lh.googleusercontent.com/MSLJRtRVyT3BnJDDBNwOkGN2h0Y75KPMXBCTOmgArKPX6B-L-8UcoW099HtBOhRGP9bl7VjfjmKz5yrPK2Wz=s512",
+      "description": "Cute aesthetic home screen widgets — clock, calendar, weather, photo, to-do and more, all dressed in one hand-drawn theme. Mix themes freely.",
+      "isPromotion": true
+    },
+    {
       "name": "Blur Face: Photo & Video",
       "appId": "com.luantran.blurfacevideo.android",
       "link": "https://apps.samsung.com/appquery/appDetail.as?appId=com.luantran.blurfacevideo.android&source=GBadge_01_9301857_tag&directOpen=true&ads=ddb0e6f9&nonOrgType=fce692ba",
@@ -105,5 +113,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1791552557
+  "updated": 1794296307
 }

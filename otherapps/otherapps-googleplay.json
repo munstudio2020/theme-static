@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Widgetrobe: Cute Widget Themes",
+      "appId": "com.luantran.widgetcollection",
+      "link": "https://play.google.com/store/apps/details?id=com.luantran.widgetcollection",
+      "avatar": "https://play-lh.googleusercontent.com/MSLJRtRVyT3BnJDDBNwOkGN2h0Y75KPMXBCTOmgArKPX6B-L-8UcoW099HtBOhRGP9bl7VjfjmKz5yrPK2Wz=s512",
+      "description": "Cute aesthetic home screen widgets — clock, calendar, weather, photo, to-do and more, all dressed in one hand-drawn theme. Mix themes freely.",
+      "isPromotion": true
+    },
+    {
       "name": "Blur Face: Photo & Video",
       "appId": "com.luantran.blurfacevideo.android",
       "link": "https://play.google.com/store/apps/details?id=com.luantran.blurfacevideo.android",
@@ -113,5 +121,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1791552557
+  "updated": 1794296014
 }
